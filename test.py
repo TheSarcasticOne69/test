@@ -10,5 +10,13 @@ to add file to the staging area
 
 '''
 git commit -m "say something"
+to add a message to the commit
 '''
-print("hello world")
+
+'''
+git push origin main
+
+to make changes in the github
+'''
+
+print("Hi,Shivam!")
